@@ -5,7 +5,7 @@ This project was forked on the 4th of December 2019. The first commit and update
 The post your work on Github is an Udacity project in the PDSND.
 
 ### Description
-Describe what your project is about and what it does
+In this project, students are required to fork a remote repo, clone it to their local repos and make some changes to the README.md file as well as the bikeshare.py file they created during their python projects.
 
 ### Files used
 Include the files used
