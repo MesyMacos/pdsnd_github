@@ -1,4 +1,4 @@
-### Date: 4th December 2019
+### Date: 4th December, 2019
 This project was forked on the 4th of December 2019. The first commit and updates to the README.md file was pushed on this date too.
 
 ### Project Title: Post your work on Github
