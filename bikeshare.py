@@ -66,6 +66,7 @@ def load_data(city, month, day):
     df["start_hour"] = df['Start Time'].dt.hour              
     df["start_end"] = df['Start Station'].astype(str) + ' to ' + df['End Station']
 
+    #If a user doesn't enter "all", only the month they entered is displayed.
     if month != 'all':
         month_index = months.index(month) + 1      
         df = df[df["month"] == month_index ]                
