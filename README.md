@@ -1,8 +1,8 @@
-### Date created
-Include the date you created this project and README file.
+### Date: 4th December 2019
+This project was forked on the 4th of December 2019. The first commit and updates to the README.md file was pushed on this date too.
 
-### Project Title
-Replace the Project Title
+### Project Title: Post your work on Github
+The post your work on Github is an Udacity project in the PDSND.
 
 ### Description
 Describe what your project is about and what it does
