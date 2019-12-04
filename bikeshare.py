@@ -65,7 +65,8 @@ def load_data(city, month, day):
     df["week_day"] = df['Start Time'].dt.weekday_name       
     df["start_hour"] = df['Start Time'].dt.hour              
     df["start_end"] = df['Start Station'].astype(str) + ' to ' + df['End Station']
-
+    
+    # If the user doesnt want to see all the months data, only the month they requested is displayed
     if month != 'all':
         month_index = months.index(month) + 1      
         df = df[df["month"] == month_index ]                
