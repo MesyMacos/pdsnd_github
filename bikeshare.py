@@ -171,7 +171,7 @@ def display_raw_data(df):
    
     display = input('Would you like to see the first five rows of the raw data? YES or NO?\n')
     line_number = 0
-
+    """While this is true, if the client selects "yes", they get to see 5 more rows of raw data"""
     while True :
         if display.lower() != 'no':
             print(df.iloc[line_number : line_number + 5])
