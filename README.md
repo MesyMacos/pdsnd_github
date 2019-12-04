@@ -1,5 +1,5 @@
 ### Date: 4th December, 2019
-This project was forked on the 4th of December 2019. The first commit and updates to the README.md file was pushed on this date too.
+This project was forked on the 4th of December 2019. The first commit and updates to the README.md file was pushed on this date too. Some changes had to be made to pass the submission, speciafically the commit messages.
 
 ### Project Title: Post your work on Github
 The post your work on Github is an Udacity project in the PDSND.
